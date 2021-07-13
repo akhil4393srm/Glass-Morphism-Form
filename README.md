@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Glass Morphism Form</title>
+    </head>
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet"></link>
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Great+Vibes&display=swap" rel="stylesheet"></link>
+    <body>
+        <div class="a">
+            <div class="b">
+                <div class="c">
+                <div class="d">
+                <div class="e">
+                <h2>Sign Up</h2>
+                
+                <form align="center" method="post">
+        <label for="user"><b>Username:</b></label><br>
+        <input type="text" id="user" name="user" required><br><br>
+        <label for="email"><b>Email-Id:</b></label><br>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+        <label for="pswd"><b>Password:</b></label><br>
+        <input type="password" id="password" name="pswd" required>
+        <br>
+  <br><input type="submit" value="Sign Up">
+                       </div>
+                   </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
